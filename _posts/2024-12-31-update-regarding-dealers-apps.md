@@ -4,9 +4,15 @@ title: "Update regarding Dealers Applications"
 date: 2024-12-31T11:36:00.000Z
 ---
 
+---
+excerpt_separator: <!--more-->
+---
+
 Greetings everyone,
 
 We have finished reviewing applications for the Dealers Den and the Night Market and emails have been sent out! 
+
+<!--more-->
 
 If you put in an application for the Dealers Den, Night Market or both, please check your email, we sent emails out to everyone that has applied. 
 
