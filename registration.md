@@ -5,121 +5,148 @@ title: FurSquared 2025 Registration
 subtitle: Please read the information on this page, then click the link at the bottom to register!
 ---
 
-## COVID-19 Information
+# **FurSquared 2025 Registration**
 
-**Proof of vaccination for COVID-19 will no longer be required to attend FurSquared, however we strongly urge everyone to keep their vaccinations up-to-date, especially when reformulated boosters become available to the general population. Additionally, while FurSquared encourages masks for all attendees in public and convention spaces, masks will not be required. As we have learned in the past, a new variant of COVID-19 can appear and change everything, from transmission to severity. Because of this, FurSquared reserves the right to amend these requirements should it become necessary in order to ensure the safety and well-being of our staff and attendees. Any modifications to this policy will be published on this page and announced through our social media channels and website.**
+---
 
-## Registration Levels
+ By registering, you not only help support the convention and its charitable mission,  
+but also receive access to all of our event spaces and amazing programming.  
+Please read the information on this page, then [click the link at the bottom to register](#\>\>\>-click-here-to-register!-\<\<\<\<)\!
 
-**Attendee:**<br>Grants general admission to the convention Friday, Saturday, and Sunday.
+## **Registration Levels**
 
-**Sponsor:**<br>Grants general admission to the convention Friday, Saturday, and Sunday.<br>In addition, you get:
+| What you’ll Receive | Attendee | Sponsor | Super Sponsor | Poster |
+| ----- | ----- | ----- | ----- | :---: |
+| General admission to the convention Friday, Saturday, and Sunday. | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) |
+| Access to our con suite for the duration of the convention.  |  | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) |
+| Additional bonus goodies and swag. |  | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) |
+| This year’s t-shirt. |  | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) |
+| Special super sponsor goodies and swag. |  |  | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) |
+| A special super sponsor item. |  |  | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) |
+| An invitation to our Guest of Honor dinner. |  |  | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) |
+| Your Sona is drawn into this year's themed YCH and made available to all attendees in the form of a 24” x 36” poster and you get a copy too\! |  |  |  | ![](https://static.fursquared.com/uploads/IufoANRqy6e0.png) |
 
-* Access to our con suite for the duration of the convention.
-* Additional bonus goodies and swag.
-* This year's t-shirt.
+## **Pricing** {#pricing}
 
-**Super Sponsor:**<br>Grants general admission to the convention Friday, Saturday, and Sunday.<br>In addition, you get:
+Currently, registration for FurSquared is at Pre-Registration pricing.  
+Pre-Registration pricing will end on February 19th, 2025 at 11:59PM CST.   
+After that, all registration tiers will change to the Walk-In price.  
+Poster level badges will only be available until November 1, 2024 at 9:00 AM CST,  
+or until all slots are sold out, whichever occurs first.
 
-* Access to our con suite for the duration of the convention.
-* Additional bonus goodies and swag.
-* Special super sponsor goodies and swag.
-* This year’s t-shirt.
-* A special super sponsor item.
-* An invitation to our Guest of Honor dinner.
-
-## Pricing
-
-Currently, registration for FurSquared is at Pre-Registration pricing. **Pre-Registration pricing will end on February 19th, 2025 at 11:59PM CST**. After that, all registration tiers will change to the Walk-In price.
-
-| Level | Pre-Registration | Walk-In Registration |
-| --- | --- | --- |
+| Level | Pre-Registration (Ends Feb 19, 2025 at 11:59PM CST) | Walk-in Registration |
+| :---: | :---: | :---: |
 | Attendee | $70 | $80 |
 | Sponsor | $130 | $140 |
-| Super Sponsor | $170 | $200 |
-| Poster | $250 | Not Available |
+| Super Sponsor (Limit of 250 Slots) | $170 | $200 |
+| Poster (Limit of 50 Slots) | ~~$250~~ **SOLD OUT** | Not Available |
 
-<br/>
-
-| Daily Badge | Price |
-| --- | --- |
+| Attendee Daily Badge (Only available day of.) | Price |
+| :---: | :---: |
 | Friday | $40 |
 | Saturday | $40 |
 | Sunday | $30 |
 
-Super sponsors will not be eligible for refunds after a date to be determined. If you registered for a super sponsor and cannot make it to the convention, you may request a rollover for next year.
+## **Minors, Parents, Guardians & Caregivers Attending FurSquared**
 
-Also, there are limits to how many people can register for certain registration levels:
+### Minors and their Parents/Guardians
 
-- Poster: There are only **50** spots for the Poster level. First come, first serve.
-- Supser Sponsor: There are only 250 spots for the Super Sponsor level.
+FurSquared is committed to providing a fun, welcoming, and safe environment for all attendees, including minors. To ensure the safety and well-being of minors attending the event, the following policy is in place:
 
-## Parents wishing to attend with a minor: fear not, we got you!
+* No Minor, or anyone with a Parent-in-Tow or Kid-in-Tow badge, will be granted access to 18+ spaces/events or to the charity auction.
 
-Parent in tow badges can be supplied, please inquire at the door to receive one. For questions, please contact [registration@fursquared.com](mailto:registration@fursquared.com)
+* Minors, 13 years old and younger at time of registration may receive a Kid-in-Tow badge when accompanying a parent/guardian (18 or older), with a paid attendee, or higher tier badge. They also must be accompanied by a parent/guardian, at all times while attending our convention. Security will be notified if any minors are found unaccompanied.
 
-Check back here and/or follow us on social media for any updates that may come this way.
+* Minors, 14-17 years old at time of registration must present a consent form that has been signed by their parent or guardian in-person at registration (or signed and legally notarized, if the parent/guardian is not present). We cannot, and will not, release a badge to a minor until either, they present the correctly filled-out form or their parent/guardian is present.
 
-## Parental Consent
+  * \*Minor Consent form available [HERE](https://static.fursquared.com/documents/f2-2025-consent-form.pdf).
 
-The file located below is for a Notary consent form for minors between the ages of 14-17 to attend the convention without an adult.
+* Parents/Guardians of Minors, 14-17 years old, at time of registration may request a Parent-in-Tow badge so that they can accompany their minors as they enjoy the con space. 
 
-[Get the parental consent form](https://static.fursquared.com/documents/f2-2025-consent-form.pdf){: target="_blank" rel="noopener"}
+In addition, a maximum of 2 (two) KIT OR PIT badges may be requested per 1 (one) paid attending, or higher, level badge. At least 1 (one) badge must be purchased in order to request any KIT or PIT badges.  
+**To read our full policy regarding minors and attendance, including steps on how to request a KIT or PIT badge, click** HERE.  
+If you have any further questions, please reach out to [registration@fursquared.com](mailto:registration@fursquared.com).
 
-## Refund Policy
+### Guardians and Caregivers
+
+For those accompanying someone to the convention as a Caregiver and required to be with them at all times, we offer our Caregiver Badge. The Caregiver Badge allows someone to bring along 1 (one) person, as their Caregiver, to accompany them as they enjoy the con space.
+
+* There must be at least 1 (one) paid, attending, or higher tier, badge purchased to request a Caregiver Badge.  
+* Only 1 (one) Caregiver Badge allowed per Attendee  
+* Caregiver Badges allow access to all the same spaces that the Attendee’s badge allows, however, the Caregiver must be with the Attendee in order to access the space themselves.  
+* Please reach out to [registration@fursquared.com](mailto:registration@fursquared.com) so we can assist you ahead of time.  
+* Click [HERE](https://static.fursquared.com/documents/f2-2025-register-guardian.pdf) for steps on how to register the attendee if a Caregiver badge is needed.
+
+### Definitions:
+
+* Parent or Guardian: FurSquared defines this as a person(s) who is at least 18 years old, and responsible for the welfare of someone who is a minor, or under the age of 18\.
+
+* Caregiver/Guardian: FurSquared defines this as a person(s) who is at least 18 years old, and provides care, support, and assistance to individuals who are unable to perform daily activities on their own due to age, disability, or illness.
+
+Thank you for your cooperation.
+
+## **Refund Policy**
 
 Refund requests are handled depending on the type of badge purchased and when the request is issued.
 
-All badges *below Poster tier* can be refunded for 100% of the purchase price if the request is made **before February 10, 2025 at 9:00 AM CST**. If the request is issued on or after Februrary 10th @ 9AM CST up until the end of the convention, only 50% of the purchase price can be refunded.
+For Poster tier badges, refunds are only allowed on or before November 1, 2024 at 9:00 AM CST, a.k.a the closing date for Poster tier registration. 
 
-For Poster tier badges, refunds are only allowed on or before November 1, 2024 at 9:00 AM CST, a.k.a the closing date for Poster tier registration. **All Poster tier badges will not be refundable after November 1, 2024 @ 9:00 AM CST**.
+| Date & Time of Request | Attendee, Sponsor, &  Super Sponsor Tier Badges | Poster Tier Badge |
+| :---- | :---- | :---- |
+| On or before November 1, 2024 at 9:00 AM CST | 100% Refund | 100% Refund |
+| Between November 1, 2024 at 9:00 AM CST and February 10, 2025 at 9:00 AM CST | 100% Refund | No Refunds\* |
+| Between February 10th 2025, at 9AM CST and Conclusion of Closing Ceremonies | 50% Refund\* | No Refunds |
+| After the convention has ended (Closing Ceremonies have Concluded) | No Refunds\* | No Refunds |
 
-After the convention has ended (after closing ceremonies have concluded), no badge refunds can be issued.
+Refunds are not guaranteed if the request falls outside of these terms.
 
-If an extraneous situation has occured and an attendee still wishes to be issued a refund outside of these terms, please contact the registration team via email ([registration@fursquared.com](mailto:registration@fursquared.com)). **All refund requests made after the convention and full refund requests made on or after Februrary 10th @ 9 AM CST are considered on a case by case basis, and refunds are not guaranteed to be issued or issued for 100% of the purchase price if the request falls outside of these terms.**
+To request a refund, Email [registration@fursquared.com](mailto:registration@fursquared.com)
 
-## Questions or Concerns?
+\*If an extenuating situation has occurred and an attendee still wishes to request a refund outside of these terms, please contact the registration team via email ([registration@fursquared.com](mailto:registration@fursquared.com)) and the request will be considered on a case-by-case basis. (Including but not limited to, 100% refunds requested after February 10th, 2025 at 9AM CST and any refunds requested after the end of the convention (end of closing ceremonies).)
 
-Email us at: [registration@fursquared.com](mailto:registration@fursquared.com)<br>FurSquared thanks you for your patience.
+## **COVID-19 Information**
 
-# FAQ
+Proof of vaccination for COVID-19 will no longer be required to attend FurSquared, however we strongly urge everyone to keep their vaccinations up-to-date, especially when reformulated boosters become available to the general population.   
+Additionally, while FurSquared encourages masks for all attendees in public and convention spaces, masks will not be required.   
+As we have learned in the past, a new variant of COVID-19 can appear and change everything, from transmission to severity. Because of this, FurSquared reserves the right to amend these requirements should it become necessary in order to ensure the safety and well-being of our staff and attendees.   
+Any modifications to this policy will be published on this page and announced through our social media channels and website.
 
-## What kind of ID is valid for checking in to get my badge during registration?
+## **Additional FAQ**
 
-* We require you to have a government issued ID that has your picture and date of birth on it along with legal first and last name. If you have changed your name the ID’s first and last legal names should match that what was submitted during your registration.
+### What kind of ID is valid for checking in to get my badge during registration?
 
-## I’m under 18 or I’m bringing a minor. Do they need an ID as well?
+* We require you to have a government issued ID that has your picture and date of birth on it along with a legal first and last name. If you have changed your name the ID’s first and last legal names should match that which was submitted during your registration.
+
+  * If your name has changed on your ID since registering and you need to update it Email [registration@fursquared.com](mailto:registration@fursquared.com)
+
+  * Alternatively you would need to bring documentation that your Name has been changed, along with your photo ID when you pick up your Badge.
+
+### I’m under 18 or I’m bringing a minor. Do they need an ID as well?
 
 * If you are attending alone but have a signed consent form that was legally notarized, you will be fine, but you must have your consent form filled out by a legal notary. Failure to comply with notarizing the form will result in your registration being withheld until a guardian is present.
 
 * If you are a guardian accompanying the minor during the registration process, you can sign the consent form at the door and no ID for the minor will be required. They will still need to register if they are above the age of 13 but will not be required to show ID if the paid attending adult is with them during the registration process.
 
-## I am a parent accompanying my child to watch over them while they attend the convention. Is there a badge for that?
+### Help\! I’ve lost my badge at the convention\! What should I do?\!?\!
 
-* Yes, we do offer a Parent in Tow (“PIT”) badge for parents that are just attending to walk along with their children or minors. There must be at least one purchased attending badge in order to be given such a badge. Only one for each parent and you will be given the opportunity to name your parent in tow badge or you can keep it at the default PIT badge name.
+* All lost badges must be reported as soon as possible.
 
-## I’m attending the convention and bringing someone under 13 years old. What do I need to do for their badge?
+* Please return to the registration desk and inform our staff that the badge was lost and a reprint is required.
 
-* Similar to the Parent in Tow badge, you can also get one for kids 13 and under called a Kid in Tow (“KIT”) badge. There must be at least one purchased attending badge by the parent with their information submitted into registration to be given such a badge. Do not pre-register someone under 13 as we will have to redo the registration under the parent’s information.
+  * Unfortunately, the attendee will have to pay the cost of a new registration, however, should the badge turn up at any point before closing ceremonies, just bring both badges back to registration, we will destroy the copy and issue a refund.
 
-## I’m accompanying someone to the convention as a caretaker and I am required to be with them always. Do I get a caretaker badge?
+  * Reprint cost: See [Registration Prices](#pricing) above.
 
-* FurSquared will happily assist with caretakers and their registrations. There must be at least one purchased attending badge by the person who is attending for themselves. Please reach out to registration@fursquared.com so we can assist you ahead of time.
-
-## Will there be daily badges for the weekend?
-
-* Yes, we will offer daily badges for Friday, Saturday, and Sunday.
-
-## Help! I’ve lost my badge at the convention! What should I do?!?!
-
-* You will be required to head back to registration and purchase another level that you had previously purchased. Please clearly state that you require a reprint to staff when you arrive. A reprint will result in the cost of the level you had purchased prior. However, if you should find your badge after you have purchased a reprint, you may bring back the reprinted badge to registration and receive a refund of the reprinted badge. It will be destroyed and then you will receive a refund.
-
-## Help!! I've lost my swag and/or meal tickets that I received for being a Sponsor, Super Sponsor, or Poster tier attendee! What should I do?!?!?!
+### Help\!\! I’ve lost my swag and/or meal tickets that I received for being a Sponsor, Super Sponsor, or Poster level attendee\! What should I do?\!?\!?\!
 
 * Unfortunately, lost swag and/or meal tickets cannot be replaced. It is the responsibility of the attendee to ensure the security of those items.
 
-* If the attendee has never received pieces of swag and/or meal tickets that they are entitled to, it is the attendee's responsibility to pick up those items before the con ends. FurSquared is not responsible for delivering these items to the attendee. If assistence is needed for picking up these items, please contact registration staff.
+* If the attendee has never received pieces of swag and/or meal tickets that they are entitled to, it is the attendee’s responsibility to pick up those items before the con ends. FurSquared is not responsible for delivering these items to the attendee. If assistance is needed for picking up these items, please contact registration staff. 
 
-# I've Read All This, Now Where Do I Register?
+## **Further Questions or Concerns?**
 
-[Click here to register!](https://reg.fursquared.com/registration/){: target="_blank" rel="noopener"}
+Email us at: [registration@fursquared.com](mailto:registration@fursquared.com)
+
+## **I’ve Read All This, Now Where Do I Register?**
+
+## **\>\>\>  [Click here to register\!](https://reg.fursquared.com/registration/) \<\<\<\<**

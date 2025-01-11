@@ -43,6 +43,8 @@ navbar-links:
     - Poster: "poster"
     - Volunteer: "volunteer"
     - Programming: 'programming'
+    - Minors Policy: "minors-policy"
+    
   Dealers and Artists:
     - Artist Alley: "artist-alley"
     - Dealer's Den: "dealers"
