@@ -10,31 +10,33 @@ subtitle: Welcome back to our historic venue! Keep Reading for Information on ou
 
 # Hilton Milwaukee
 
-The Hilton Milwaukee, originally opened in 1928 as the Milwaukee Schroeder Hotel, is a historic hotel that is hosting our convention this year! Developed by Walter Schroeder, it was one of the largest and most luxurious hotels in the Midwest. It faced economic challenges during the Great Depression and World War II but remained a significant landmark. Acquired by Hilton in 1972 and renamed, it has since undergone renovations to combine its lavish historic elegance with modern amenities, continuing to be a prominent downtown Milwaukee attraction. The hotel is located in the heart of downtown Milwaukee, just a few blocks from the Milwaukee River and Lake Michigan, and is surrounded by a variety of dining, shopping, and entertainment options.
+The Hilton Milwaukee, originally opened in 1928 as the Milwaukee Schroeder Hotel, is a historic hotel that is hosting our convention this year! Developed by Walter Schroeder, it was one of the largest and most luxurious hotels in the Midwest. Acquired by Hilton in 1972 and renamed, it has since undergone renovations to combine its lavish historic elegance with modern amenities, continuing to be a prominent downtown Milwaukee attraction.
 
 509 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
-Phone: (414) 271-7250<br/>
-<a href="https://www3.hilton.com/en/hotels/wisconsin/hilton-milwaukee-city-center-MKEMHHF/index.html">Venue Website</a>
+Phone: (414) 271-7250
 
 # DoubleTree by Hilton Hotel Milwaukee Downtown
 
 The DoubleTree by Hilton Hotel Milwaukee Downtown is serving as our overflow hotel for this year. This is an award-winning hotel offering modern guest rooms, on-site dining and a convenient location adjacent to the Hilton Milwaukee and the Baird Center.
 
 611 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
-Phone: (414) 273-2950<br/>
-<a href="https://www.hilton.com/en/hotels/mkeccdt-doubletree-milwaukee-downtown/">Venue Website</a>
-<a href="https://www.hilton.com/en/attend-my-event/mkeccdt-fff-db031eee-7f71-48bd-b361-3456f19efa31/">Book a Room</a> (See Hotel Information Below for Accessibility And Other Details)
+Phone: (414) 273-2950
 
 # Baird Center
 
-We are expanding our space to include a portion of the Baird Center, a exhibition hall and convention center! Our space at the Baird Center is easily accessible from the Hilton Milwaukee via a connected skywalk. Recent renovations opened in 2024 have doubled the center's available space, continuing the Baird Center's reputation as a modern and versatile space for events in downtown Milwaukee.
+We are expanding our space to include a portion of the Baird Center, a exhibition hall and convention center! Our space at the Baird Center is easily accessible from the Hilton Milwaukee via a connected skywalk or from the street. Recent renovations in 2024 have doubled the center's space, continuing the Baird Center's reputation as a modern and versatile space for events.
 
 400 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
 <a href="https://bairdcenter.com/">Venue Website</a>
 
 <hr>
-  <div align="center">
-    <h3>Attention: The Hilton Milwaukee is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted. Similar regulations apply to the DoubleTree and Baird Center. Please place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval. Your cooperation preserves our venues' history and our ability to use them for future years. Thank you.</h3>
+  <div style="display: flex; justify-content: center;">
+    <div style="margin-right: 20px;">
+      <h4>Attention: The Hilton Milwaukee is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted. Similar regulations apply to the DoubleTree and Baird Center. Please place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval. Your cooperation preserves our venues' history and our ability to use them for future years. Thank you.</h4>
+    </div>
+    <div>
+      <h4>Entering the Baird Center requires passing through an airport-style security checkpoint. The equipment is fursuit friendly, but please leave any weapons, knives, etc. in your hotel room (even if they are toys and/or peace bonded).</h4>
+    </div>
   </div>
 <hr>
 
@@ -53,9 +55,9 @@ We are expanding our space to include a portion of the Baird Center, a exhibitio
 
 Our hotels have rooms specifically reserved for FurSquared 2025 attendees. This is called a "room block", and can only be accessed through a special link.
 
-<h3>Room block status: <span style="color: #00FCFF">OVERFLOW HOTEL OPEN!</span></h3>
+<h3>Room block status: <span style="color: #00FCFF">NO ROOMS AVAILABLE, STAY TUNED!</span></h3>
 
-You can access available rooms from our room blocks by [following this link](https://www.hilton.com/en/attend-my-event/mkeccdt-fff-db031eee-7f71-48bd-b361-3456f19efa31/). This link is the only way for attendees to book guaranteed rooms at special pricing for FurSquared 2025.
+Our room blocks at the Hilton Milwaukee and DoubleTree by Hilton are currently full. We are working to secure additional rooms and will update this page when more rooms are available. Please check back soon!
 
 If you have a need for an accessible room, please place your reservation for a standard room. After you have made your reservation, please contact the hotel directly to be moved to an accessible room, contact information is available for each hotel above. If you are having difficulties with this process, please contact us at [info@fursquared.com](mailto:info@fursquared.com).
 
@@ -75,7 +77,7 @@ You MUST validate your parking ticket! There are two ways:
 1. Take the parking ticket to the hotel front desk, and ask to have it attached to your room reservation. You may have multiple vehicles attached to a single room reservation.
 2. If you are not staying overnight, you can acquire a voucher from Registration at the Baird Center and take that to the hotel front desk, along with your parking ticket.
 
-There is a strong chance the Hilton garage will reach capacity, so please also consider other lots available in the area. There are many within a blocks surrounding the hotels and convention center. We recommend checking out [SpotHero](https://spothero.com) and [HONK](https://parking.honkmobile.com/parking) for parking options and booking in advance. [A promotion code is available](https://spothero.com/about/promo-code) for first-time users of SpotHero.
+There is a strong chance the Hilton garage will reach capacity, so please also consider other lots available in the area. There are many within a blocks surrounding the hotels and convention center. We recommend checking out [SpotHero](https://spothero.com) and [HONK](https://parking.honkmobile.com/parking) for parking options and booking in advance.
 
 # Getting to FurSquared
 
