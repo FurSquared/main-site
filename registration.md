@@ -71,8 +71,13 @@ For those accompanying someone to the convention as a Caregiver and required to 
 
 * There must be at least 1 (one) paid, attending, or higher tier, badge purchased to request a Caregiver Badge.  
 * Only 1 (one) Caregiver Badge allowed per Attendee  
-* Caregiver Badges allow access to all the same spaces that the Attendee’s badge allows, however, the Caregiver must be with the Attendee in order to access the space themselves.  
+* Caregiver Badges allow access to almost all of the same spaces that the Attendee’s badge allows, however, the Caregiver must be with the Attendee in order to access the space themselves. (Unfortunately, at this time, this access does NOT include the Sponsor Dinner, if applicable)  
+* Caregiver Badges Do NOT grant access to any perks, swag, sponsor dinner, or any other extra features of being a Sponsor, or Super Sponsor, even if the Attendee has purchased the highest tier badge offered.  
+  * The only exception is access to Con Suite and front-of-line or early-entry access to panels or spaces, if offered at the event AND the paid attendee is Sponsor or higher tier.  
+    * Should the person(s) with the Caregiver Badge wish to attend sponsor dinner or receive any other perks, they must upgrade their free badge. A request should be made by emailing [registration@fursquared.com](mailto:registration@fursquared.com) after registering the Attendee, but before arriving at the convention, to ensure availability of upgrade spots for the attending Caregiver/Guardian. There are NO guarantees of availability of upgrades on site/once the convention has started.  
+       
 * Please reach out to [registration@fursquared.com](mailto:registration@fursquared.com) so we can assist you ahead of time.  
+  or  
 * Click [HERE](https://static.fursquared.com/documents/f2-2025-register-guardian.pdf) for steps on how to register the attendee if a Caregiver badge is needed.
 
 ### Definitions:
