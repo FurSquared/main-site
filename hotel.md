@@ -30,12 +30,12 @@ We are expanding our space to include a portion of the Baird Center, a exhibitio
 <a href="https://bairdcenter.com/">Venue Website</a>
 
 <hr>
-  <div style="display: flex; justify-content: center; text-align: center;">
-    <div style="flex: 1; margin-right: 20px;">
+  <div style="display: flex; justify-content: center; text-align: center; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 20px; min-width: 300px;">
       <h3>Attention: The Hilton Milwaukee is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted. Similar regulations apply to the DoubleTree and Baird Center. Please place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval. Your cooperation preserves our venues' history and our ability to use them for future years. Thank you.</h3>
     </div>
-    <div style="flex: 1;">
-      <h3>Entering the Baird Center requires passing through an airport-style security checkpoint. The screening  equipment is fursuit friendly, but please leave any weapons, knives, etc. in your hotel room (even if they are toys and/or peace bonded).</h3>
+    <div style="flex: 1; min-width: 300px;">
+      <h3>Entering the Baird Center requires passing through an airport-style security checkpoint. The screening equipment is fursuit friendly, but please leave any weapons, knives, etc. in your hotel room (even if they are toys and/or peace bonded).</h3>
     </div>
   </div>
 <hr>
