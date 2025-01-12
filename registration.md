@@ -5,13 +5,9 @@ title: FurSquared 2025 Registration
 subtitle: Please read the information on this page, then click the link at the bottom to register!
 ---
 
-# **FurSquared 2025 Registration**
-
----
-
- By registering, you not only help support the convention and its charitable mission,  
+By registering, you not only help support the convention and its charitable mission,  
 but also receive access to all of our event spaces and amazing programming.  
-Please read the information on this page, then [click the link at the bottom to register](#\>\>\>-click-here-to-register!-\<\<\<\<)\!
+Please read the information on this page, then [click the link at the bottom to register](#ive-read-all-this-now-where-do-i-register)!
 
 ## **Registration Levels**
 
@@ -63,8 +59,10 @@ FurSquared is committed to providing a fun, welcoming, and safe environment for 
 
 * Parents/Guardians of Minors, 14-17 years old, at time of registration may request a Parent-in-Tow badge so that they can accompany their minors as they enjoy the con space. 
 
-In addition, a maximum of 2 (two) KIT OR PIT badges may be requested per 1 (one) paid attending, or higher, level badge. At least 1 (one) badge must be purchased in order to request any KIT or PIT badges.  
-**To read our full policy regarding minors and attendance, including steps on how to request a KIT or PIT badge, click** HERE.  
+In addition, a maximum of 2 (two) KIT OR PIT badges may be requested per 1 (one) paid attending, or higher, level badge. At least 1 (one) badge must be purchased in order to request any KIT or PIT badges.
+
+
+## **To read our full policy regarding minors and attendance, including steps on how to request a KIT or PIT badge, click** [HERE](https://fursquared.com/minors-policy/).  
 If you have any further questions, please reach out to [registration@fursquared.com](mailto:registration@fursquared.com).
 
 ### Guardians and Caregivers
