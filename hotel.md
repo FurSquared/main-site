@@ -35,7 +35,7 @@ We are expanding our space to include a portion of the Baird Center, a exhibitio
       <h3>Attention: The Hilton Milwaukee is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted. Similar regulations apply to the DoubleTree and Baird Center. Please place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval. Your cooperation preserves our venues' history and our ability to use them for future years. Thank you.</h3>
     </div>
     <div style="flex: 1; min-width: 300px;">
-      <h3>Entering the Baird Center requires passing through an airport-style security checkpoint. The screening equipment is fursuit friendly, but please leave any weapons, knives, etc. in your hotel room (even if they are toys and/or peace bonded).</h3>
+      <h3>Entering the Baird Center requires passing through an airport-style security checkpoint. The screening equipment is fursuit friendly, but please leave any weapons, knives, etc. in your hotel room (even if they are toys and/or peace bonded). Outside food and beverages, even in purchased from the Hilton, are also not allowed in the Baird Center.</h3>
     </div>
   </div>
 <hr>
@@ -123,6 +123,7 @@ If you live in the Milwaukee area, are staying with a friend, or otherwise looki
 
 Milwaukee is well-known for its variety of dining options, especially in the area surrounding our venue. Here are just a few of the many options available:
 
+* Concessions will be available in the Baird Center and Hilton Milwaukee during the convention.
 * **[Hilton Milwaukee Dining](https://www3.hilton.com/en/hotels/wisconsin/hilton-milwaukee-city-center-MKEMHHF/dining/index.html)** - The Hilton Milwaukee has a variety of dining options, including the Miller Time Pub & Grill, Monarch Lounge, and the Café. The hotel also has a Starbucks location.
 * **[Avenue Bar and Grill (Inside DoubleTree)](https://www.avenuemilwaukee.com/)** - Our overflow hotel, the DoubleTree, has a restaurant and bar on-site. The Avenue Bar and Grill offers breakfast, lunch, dinner and a full bar.
 * **[3rd Street Market Hall](https://www.3rdstmarkethall.com)** - The 3rd Street Market Hall is a very short walk from the Hilton and features a variety of local food options and other vendors, including TopGolf suites and a full bar, in an open environment. It is located in the Avenue, a historic mall that was restored and renovated. The hall is a favorite amongst FurSquared attendees, staff, and local furries alike! Suiting is allowed but suits must be "safe for work" and the venue is 21+ after 8:00 PM each day; one should be prepared to show legal ID. [Click here for more information on their policies](https://3rdstmarkethall.com/market-hall-policies).
