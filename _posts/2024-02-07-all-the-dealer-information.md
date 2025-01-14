@@ -20,7 +20,7 @@ Please look at [the Dealer Info Page](/dealing-at-f2) for updates to things such
 [Click here to see how to add an assistant to your table](/dealer-assistant)
 
 # Dealer Map
-![Fur Squared 2024 Dealer's Den Map](/uploads/vertical-dealers-den-map-sm.jpg "Fur Squared 2024 Dealer's Den Map")
+![FurSquared 2024 Dealer's Den Map](/uploads/vertical-dealers-den-map-sm.jpg "FurSquared 2024 Dealer's Den Map")
 
 **NOTE: PT = Performer Table**
 

@@ -1,8 +1,8 @@
 ---
 layout: page
 full-width: true
-title: Dealing at Fur Squared
-subtitle: Information for the people dealing at Fur Squared
+title: Dealing at FurSquared
+subtitle: Information for the people dealing at FurSquared
 toc: true
 ---
 

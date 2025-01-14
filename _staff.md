@@ -8,7 +8,7 @@ subtitle: Our staff team, and how to join
 # Staff
 Eventually we'll be listing our staff here!
 
-#### Fursquared thanks you for your interest in joining our staff\!
+#### FurSquared thanks you for your interest in joining our staff\!
 
 # So you want to become staff?
 
