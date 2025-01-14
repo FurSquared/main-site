@@ -92,7 +92,7 @@ FurSquared also accepts Visa, Mastercard, American Express, JCB, Discover, and D
 
 FurSquared cannot involve itself in financial disputes between individual attendees, and cannot divulge information about an individual attendee to any party other than to banking officials or legal authorities.
 
-### ***Hotel and Convention Center Conduct:**
+### **Hotel and Convention Center Conduct:**
 
 Rules and regulations of the hotels and convention center are to be followed. This includes but is not limited to:
 
