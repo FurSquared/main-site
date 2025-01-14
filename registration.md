@@ -146,15 +146,15 @@ Any modifications to this policy will be published on this page and announced th
 
 * If the attendee has never received pieces of swag and/or meal tickets that they are entitled to, it is the attendee’s responsibility to pick up those items before the con ends. FurSquared is not responsible for delivering these items to the attendee. If assistance is needed for picking up these items, please contact registration staff. 
 
-## **Further Questions or Concerns?**
-
 ### What’s Con Suite?
 
 * While Con Suite might sound like it would be a cool hotel room to stay in overnight, it is not that, unfortunately, but what it actually is, is more of a Sponsor Lounge, a designated space on the convention floor, available to attendees with a sponsor badge or higher, offering complimentary snacks and beverages. It’s a place to step away from the crowds of the con, rest for a moment and grab a drink or snack, during the convention day. If you wish to stay the night at Fursquared, you will need to book your own hotel room.
 
   * Information about our hotel options can be found [HERE](https://fursquared.com/hotel/).
 
-Email us at: [registration@fursquared.com](mailto:registration@fursquared.com) for further questions or concerns!
+## **Further Questions or Concerns?**
+
+Email us at: [registration@fursquared.com](mailto:registration@fursquared.com)
 
 ## **I’ve Read All This, Now Where Do I Register?**
 
