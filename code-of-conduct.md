@@ -92,6 +92,18 @@ FurSquared also accepts Visa, Mastercard, American Express, JCB, Discover, and D
 
 FurSquared cannot involve itself in financial disputes between individual attendees, and cannot divulge information about an individual attendee to any party other than to banking officials or legal authorities.
 
+### ***Hotel and Convention Center Conduct:**
+
+Rules and regulations of the hotels and convention center are to be followed. This includes but is not limited to:
+
+1. Wear appropriate footwear in the hotel lobby, convention center, and places where food is being served such as the Super Sponsor Dinner and Sponsor's Lounge. Fursuit paws are considered allowed footwear.
+
+2. This is still mostly a public space, so clothing must cover your bits.
+
+3. Our main hotel, The Hilton Milwaukee, is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted.
+
+4. Place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval. 
+
 ### **Miscellaneous notes:**
 
 The standards of conduct for FurSquared will be strictly enforced by FurSquared staff and volunteers, who will be clearly identified as such. If you have any problem with any action taken by a Staff member you may take the matter up with the Chief of Security or to FurSquared's Chairman.
