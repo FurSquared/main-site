@@ -13,6 +13,8 @@ subtitle:
 * **Sat:** 8 AM to Midnight
   * **[Smash Tournament](https://challonge.com/FurSquared2025Smash){: target="_blank" rel="noopener"}:** 2 PM to 5 PM
 * **Sun:** 8 AM to 5 PM
+  * **Dummynation:** 1 PM to 4 PM
+    * Learn then play with one of the best players in the world!
 
 # Play-Throughs, Speedruns, and Demos
 
