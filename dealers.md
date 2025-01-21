@@ -6,7 +6,21 @@ subtitle: Welcome, welcome, one and all! With all of these dazzling wares we’r
   sure you will find something of satisfaction! We bring you fantastic and
   fascinating stock from all over fandom to our humble little con.
 ---
-# Dealer's Den Info Coming Soon!
+
+# Dealers Den and Night Market
+
+## Location
+
+The Dealers Den is located on the 2nd floor of the convention center in room S202ABC and the Night Market is also on the 2nd floor of the convention center in room S202DE
+
+There is a skybridge from the HIlton to the convention center located on the 4th floor right across from the escalators. 
+
+## Hours (For both Dealers Den and Night Market)
+
+Friday: 10 AM to 6 PM
+Saturday: 10 AM to 6 PM
+Sunday: 10 AM to 4 PM
+
 
 # After Hours
 
