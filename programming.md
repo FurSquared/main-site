@@ -6,7 +6,7 @@ subtitle: Submit or Attend a Panel at FurSquared!
 ---
 
 
-# Schedule of Events: <https://links.fursquared.com/schedule>
+# Schedule of Events: [Click Here](https://links.fursquared.com/schedule)
 
 ## Downloadable PDFs of the schedule
 * [Thursday](https://static.fursquared.com/uploads/7W9AOPO5Q6Em.pdf)
