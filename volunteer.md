@@ -46,7 +46,7 @@ What's in it for you? First off, you'll have the thanks of our entire staff and 
 - For 2 hours of logged service, you receive a small sponsor gift.
 - For 6 hours of logged service, you will receive a FurSquared-branded bandana.
 - For 10 hours of logged service, you will receive a FurSquared t-shirt.
-- For 14 hours of logged service, you will receive free attendee registration for FurSquared 2025.
+- For 14 hours of logged service, you will receive free attendee registration for FurSquared 2026.
 
 **Note:** Any hours logged before opening ceremonies or after closing ceremonies will count as **double hours** toward your total hours of logged service. DJ’s and Panelists will count towards your total hours of logged service.
 
