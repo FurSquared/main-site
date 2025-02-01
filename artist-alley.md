@@ -27,7 +27,7 @@ subtitle: The artist alley runs on a lottery-based system! Every day is a new ch
 * Please use headphones if you would like to listen to music. We love music too but it can be overwhelming in a busy room!
 * Don’t starve yourself but please keep meals reasonable. Try to keep food and drinks off of your table as much as possible and keep lids on drinks. Protect the art!
 
-##s Artwork and Merch Guidelines
+## Artwork and Merch Guidelines
 
 * All artwork should be created by YOU! Everything used on your displays as examples as well as any manufactured items, if any, should prominently feature your own work.
 * AI “art” is not allowed.
