@@ -4,79 +4,40 @@ full-width: true
 title: Artist Alley
 css:
   - /assets/css/theme-2022/artist-alley.css
-subtitle: Hours, Rules, and Other Fun Info!
+subtitle: The artist alley runs on a lottery-based system! Every day is a new chance for a space to sell your wares. Tables are free, but limited in number!
 ---
-
-## **The Artist Alley runs on a lottery system where new participants are chosen daily.**
-
-#### You can enter the lottery in-person at the Artist Alley Info Desk or via Telegram.
-
-### **Sign up early via the Artist Alley Telegram Channel**
-Link for the channel will be posted on Monday, February 17th.
-
-### Official Hours will be posted when the full schedule is released.
-
----
-
-### Please remember to check out at the info desk when you leave the alley for the day!
-
-This way, people on the waiting list can participate AND you get the opportunity to sign up for the next day’s lotto immediately!
-
-**Failure to check out may result in disqualification for the following day.**
 
 ## How to Participate:
 
-### Option 1: On-Site Lotto Signups
+* Sign ups are available before the convention weekend using a link that will be provided.
+* All who fill out the form will be added to a telegram channel where results will be posted prior to the convention weekend (unless you choose to opt out, in which case you will be contacted via email/text).
+* Results will be randomized, but weighted in order to be as fair as possible.
+* All 3 days of results and waitlists will be posted before the con. Please post in the telegram chat to let us know if you are unable to attend, or would otherwise like to be removed from the list on any given day.
+* Note that we are collecting tax information! Please plan accordingly.
+* If your name is chosen in the lotto, you will have 1 hour to set up before opening starts. There will be a 15 minute grace period after opening to check in and claim your table before your spot will be forfeit to the next person on the waitlist.
+* Please remember to check out at the info desk when you leave the alley for the day!
 
-* Sign up in-person before the lotto draw times (see time table above). This is done at the Artist Alley Info Desk, right outside of the Artist Alley. You can be added to the waitlist any time throughout the day.
-* The Lotto will run when the Alley opens for Setup (see time table above).
-* If your name is chosen in the lotto, you get 1 hour to set up. If you haven’t checked in and claimed your table before the Artist Alley opens to the public, you have a 15 minute grace period to do so before your spot is forfeited and given to the next person on the waitlist.
-* Waitlisted people will be contacted via Text/Telegram when a spot opens up.
+## Rules for Selling in the Alley
 
-### Option 2: Telegram Lotto Signups
+* **Nothing may be placed on the walls.** This is a historical hotel, please be respectful. This rule is taken very seriously- consequences may include being removed from the artist alley for the entire weekend or even having your badge revoked.
+* Each person gets ½ of a table with a roughly 2 foot/cube height allowance. Please be reasonable and respectful of your neighbors.
+* You must remove all of your belongings each day, even if you are in for consecutive days. You may not store items in the room overnight.
+* There will be no access to outlets. Please bring a power bank if needed. A laminator will be available to use at the info desk. Lamination sheets will be provided for a $1 donation to charity if you do not have your own.
+* If you are away at your table for longer than 30 minutes, your spot may be forfeit to the next person on the waitlist. Exceptions may be allowed in certain circumstances but please communicate with the head of AA if needed. We cannot be held responsible for your table or items on it while you are absent. If your table is considered abandoned without notice and we cannot reach you, your items will be removed from the table so that the spot can be freed up for someone waiting.
+* Please use headphones if you would like to listen to music. We love music too but it can be overwhelming in a busy room!
+* Don’t starve yourself but please keep meals reasonable. Try to keep food and drinks off of your table as much as possible and keep lids on drinks. Protect the art!
 
-* Go to the [Artist Alley Channel](https://t.me/+q-VDZfvAePZjYjFh)
-* Find the pinned message titled “LOTTO SIGN UP”
-* Comment with your Badge Name, Badge Number, and all days that you would like to enter the lotto (Friday, Saturday, and/or Sunday).
-* That’s it! The list of lotto winners and waitlist will be posted in the channel each morning.
-* If you would like to add/remove days that you are signed up for, just reply to your original comment with the changes and tag @renacat before the next lotto pull.
+##s Artwork and Merch Guidelines
 
-**Info we’ll need from you:**
+* All artwork should be created by YOU! Everything used on your displays as examples as well as any manufactured items, if any, should prominently feature your own work.
+* AI “art” is not allowed.
+* NSFW/18+ pieces should be clearly marked and censored. Ideally in a separate binder if applicable. There will be minors in attendance and it is your responsibility to make sure to verify age before allowing access to these items.
+* You should be able to work on something you are selling at your table. SOME kind of customized item or on-the-spot commission should be available for purchase and be the main focus of selling in artist alley.
+* Keep large premade “merch” items to a minimum including clothing, fursuit parts/props, bags, pillows, etc. They are allowed *sparingly*, but again, should not be the focus of selling in artist alley and having more than 1-2 of these items are likely to encroach on your neighbor’s space as well.
+* Small, supplemental items like stickers/keychains/pins etc are allowed as long as they feature your own artwork and displays are reasonably sized.
 
-* Badge Name
-* Badge Number
-* Telegram @ or Phone Number
+## Contact Information
 
-### Rules and Other Info
+If you have any questions before the con, please email [artists@fursquared.com](artists@fursquared.com). During the con please find artist alley staff at the info desk to answer questions you may have or reach out via the telegram chat.
 
-* **Do not post things on walls.** This is a historical hotel with historical walls, please be respectful. **If this rule is broken, you will be immediately removed from the Artist Alley and disallowed from entering the lotto for the rest of the weekend.** Depending on severity, your badge may be revoked completely.
-* **Sales Tax information:**
-
-  This year will be collecting information for state sales tax filing.
-
-  The Google form will be provided to fill out before the convention via the 2024 Artist Alley Announcement Channel. On it we will need some personal information including: name, address, and email.
-
-  We will also be collecting your sales tax id **OR** the last four of your social security number at the convention when you get your table.
-
-  If you have any questions please contact **Kashiru@fursquared.com**
-* **Please clean your area for the next person when you check out.**
-* **Each person gets ½ of a table.** The table space amounts to 36” x 18” per person. Please don’t encroach into your neighbor’s space.
-* **Cover those bits: Minors will be present at the con, so please have NSFW pieces clearly marked and censored.**
-* **If you’re away from your table for more than 30 minutes, your spot will be forfeited to the next person on the waiting list.** Some exceptions may apply - come talk to us at the desk if you’ll be away for a while. You’re not a prisoner, but we want to make sure that the small space can cater to as many artists as possible over the weekend, and abandoned tables are discouraging to both commissioners and those on the waitlist.
-* **There will be no access to electrical outlets.** Having a portable power bank is highly recommended.
-* **A communal laminator will be set up at the Info desk.** Lamination sheets will be provided for a $1 donation to the charity, or you can bring your own.
-* **Please use headphones if you’d like to listen to music.**
-* **Keep displays at a reasonable height - about 2 standard gridwall cubes \[14x14 inches] high.**
-* **Don’t starve yourself, but please keep food and drinks off the tables to protect yours and others’ artwork!** Open drink cups without lids are not ideal.
-* **All artwork for sale or on display should be created by you.**
-* **AI art is not allowed.**
-* **Please keep premade, large “merch” \[clothing, fursuit parts/props, bags, pillows, etc] to a minimum.**
-  *The general guideline is that you should be able to work on what you’re selling at your table \[generally, drawings]. Small, supplemental items \[stickers, keychains, etc.] are allowed, but should not be the main focus. There are of course exceptions to the rule \[i.e. if you’re drawing on t-shirts at your table and finishing them at the con, then selling clothing would be allowed].*
-
-If you have questions about whether or not your items fall in the guidelines, please email **art@fursquared.com** before the con or find **Candy** or other Artist Alley Staff in-person by the **Artist Alley Info Desk** or via the **Artist Alley Telegram Channel**.
-
-This year, most of our at-con announcements will be made through telegram! Join the 2024 Artist Alley Channel when it is released to keep yourself updated!
-
-Be Kind. Have Fun. Make Bank.
-
-Good Luck!
+**Be kind, have fun, make bank, and good luck!**
