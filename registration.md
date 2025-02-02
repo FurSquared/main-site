@@ -9,6 +9,11 @@ By registering, you not only help support the convention and its charitable miss
 but also receive access to all of our event spaces and amazing programming.  
 Please read the information on this page, then [click the link at the bottom to register](#ive-read-all-this-now-where-do-i-register)!
 
+## Schedule - all times in CST
+- Thursday: 5pm to 9pm
+- Friday & Saturday: 9am to 9pm
+- Sunday: 9am to 3pm
+
 ## **Registration Levels**
 
 | What you’ll Receive | Attendee | Sponsor | Super Sponsor | Poster |
