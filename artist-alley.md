@@ -9,8 +9,8 @@ subtitle: The artist alley runs on a lottery-based system! Every day is a new ch
 
 ## How to Participate:
 
-* Sign ups are available before the convention weekend using a link that will be provided.
-* All who fill out the form will be added to a telegram channel where results will be posted prior to the convention weekend (unless you choose to opt out, in which case you will be contacted via email/text).
+* Sign ups are available before the convention weekend using our [vendor registration system](https://vendors.fursquared.com/).
+* All who fill out the form will be added to a Telegram channel where results will be posted prior to the convention weekend (unless you choose to opt out, in which case you will be contacted via email/text).
 * Results will be randomized, but weighted in order to be as fair as possible.
 * All 3 days of results and waitlists will be posted before the con. Please post in the telegram chat to let us know if you are unable to attend, or would otherwise like to be removed from the list on any given day.
 * Note that we are collecting tax information! Please plan accordingly.
