@@ -9,11 +9,19 @@ subtitle: Welcome, welcome, one and all! With all of these dazzling wares we’r
 
 # Dealers Den and Night Market
 
+## Browse our Dealers List
+
+The vendors page is now live! Feel free to take at all the amazing vendors that we have this year!
+
+Use the link below to access the site!
+
+[https://vendors.fursquared.com/public](https://vendors.fursquared.com/public)
+
 ## Location
 
 The Dealers Den is located on the 2nd floor of the convention center in room S202ABC and the Night Market is also on the 2nd floor of the convention center in room S202DE
 
-There is a skybridge from the HIlton to the convention center located on the 4th floor right across from the escalators. 
+There is a skybridge from the Hilton to the convention center located on the 4th floor right across from the escalators.
 
 ## Hours (For both Dealers Den and Night Market)
 
