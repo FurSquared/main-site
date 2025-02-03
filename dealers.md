@@ -7,7 +7,7 @@ subtitle: Welcome, welcome, one and all! With all of these dazzling wares we’r
   fascinating stock from all over fandom to our humble little con.
 ---
 
-## Browse our Dealers List
+# Dealers List
 
 The vendors page is now live! Feel free to take at all the amazing vendors that we have this year!
 
@@ -15,7 +15,7 @@ Use the link below to access the site!
 
 [https://vendors.fursquared.com/public](https://vendors.fursquared.com/public)
 
-## Location
+# Location
 
 The Dealers Den is located on the 2nd floor of the convention center in room S202ABC and the Night Market is also on the 2nd floor of the convention center in room S202DE
 
@@ -27,7 +27,7 @@ Friday: 10 AM to 6 PM
 Saturday: 10 AM to 6 PM
 Sunday: 10 AM to 4 PM
 
-# After Hours
+## After Hours
 
 Please note that once the Dealers Den and Night Market are closed for the evening, nobody will be allowed inside. As a general rule, even staff are not allowed inside the rooms after hours; the only exception would be a Dealers Den lead and only then if they are accompanied by a member of our Security team. Please double and triple check to make sure that you have all of your personal belongings with you when you leave; items such as personal ID, money, phones, etc. that you might need should not be left in the Den or Night Market overnight.
 
