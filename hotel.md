@@ -57,9 +57,8 @@ We are expanding our space to include a portion of the Baird Center, a exhibitio
 # Hotel Map
 
 <div align="center">
-  <img style="max-width: 750px;" alt="A map of the venue. Please ask a staff member any questions."  src="{{ 'assets/img/2025/hotels.jpg' | relative_url }}" />
-
-  <h4><a href="/assets/img/2025/hotels.jpg" target="_new">Click here for a larger version of the map.</a></h4>
+  <img style="max-width: 50%; height: auto;" alt="A map of the venue. Please ask a staff member any questions." src="{{ 'assets/img/2025/hotels.jpg' | relative_url }}" />
+  <h4><a href="{{ 'assets/img/2025/hotels.jpg' | relative_url }}" target="_new">Click here for a larger version of the map.</a></h4>
 </div>
 
 # Room Block Information and Reservations
