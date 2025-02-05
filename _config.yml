@@ -33,6 +33,7 @@ navbar-links:
     - STI Testing: "sti-testing"
     - Video Games: "video-games"
     - Con Map: "con-map"
+    - Dealers List: "dealers-list"
   Information:
     - About: "about"
     - Conbook: "assets/FurSquared_2024_Conbook.pdf"
