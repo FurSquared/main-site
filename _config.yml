@@ -29,11 +29,10 @@ navbar-links:
     - Schedule: 'programming'
     - Artist Alley: "artist-alley"
     - Dance Events: "dance-events"
-    - Dealer's Den: "dealers"
+    - Dealer's Den: "https://vendors.fursquared.com/public"
     - STI Testing: "sti-testing"
     - Video Games: "video-games"
     - Con Map: "con-map"
-    - Dealers List: "dealers-list"
   Information:
     - About: "about"
     - Conbook: "assets/FurSquared_2024_Conbook.pdf"
