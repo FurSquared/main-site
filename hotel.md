@@ -37,8 +37,8 @@ We are expanding our space to include a portion of the Baird Center, a exhibitio
       <h2>Fairfield Inn & Suites Milwaukee Downtown</h2>
        <p>The Fairfield Inn & Suites Milwaukee Downtown is serving as another overflow hotel for this year. This hotel is located steps from the Baird Center and is close to other meeting places, such as 3rd Street Market Hall. The rooms are modern and include an ergonomic workstation.</p>
        <p>
-        611 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
-        Phone: (414) 273-2950
+        710 N Dr. Martin Luther King Jr. Drive<br/>Milwaukee, WI 53203<br />
+        Phone: (414) 626-7100
         </p>
     </div>
   </div>
