@@ -1,7 +1,7 @@
 ---
 layout: page
 full-width: true
-title: Hotel and Milwaukee Area Information
+title: Hotels and Area Information
 subtitle: Welcome back to our historic venue! Keep Reading for Information on our hotels, the Baird Center, parking, travel, and dining!
 ---
 <div align="center">
@@ -14,6 +14,13 @@ The Hilton Milwaukee, originally opened in 1928 as the Milwaukee Schroeder Hotel
 
 509 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
 Phone: (414) 271-7250
+
+# Baird Center
+
+We are expanding our space to include a portion of the Baird Center, a exhibition hall and convention center! Our space at the Baird Center is easily accessible from the Hilton Milwaukee via a connected skywalk or from the street. Recent renovations in 2024 have doubled the center's space, continuing the Baird Center's reputation as a modern and versatile space for events.
+
+400 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
+<a href="https://bairdcenter.com/">Venue Website</a>
 
 <hr>
   <h1 style="text-align: center;">Overflow Hotels</h1>
@@ -35,15 +42,6 @@ Phone: (414) 271-7250
         </p>
     </div>
   </div>
-
-<hr>
-
-# Baird Center
-
-We are expanding our space to include a portion of the Baird Center, a exhibition hall and convention center! Our space at the Baird Center is easily accessible from the Hilton Milwaukee via a connected skywalk or from the street. Recent renovations in 2024 have doubled the center's space, continuing the Baird Center's reputation as a modern and versatile space for events.
-
-400 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
-<a href="https://bairdcenter.com/">Venue Website</a>
 
 <hr>
   <div style="display: flex; justify-content: center; text-align: center; flex-wrap: wrap;">
