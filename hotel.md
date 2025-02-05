@@ -68,9 +68,9 @@ Our hotels have rooms specifically reserved for FurSquared 2025 attendees. This 
 
 Here are the hotels that have room blocks. Click the links to check for available rooms and to make a reservation. Note that as the con approaches, rooms may fill up, so one or more hotels may be sold out.
 
-* **[Hilton Milwaukee](https://hilton.com/en/book/reservation/rooms/?ctyhocn=MKEMHHF&arrivalDate=2025-02-20&departureDate=2025-02-24&groupCode=95N&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink)** - Our main hotel, the Hilton Milwaukee, is currently full. Please check back soon for additional rooms.
-* **[DoubleTree by Hilton](https://www.hilton.com/en/attend-my-event/mkeccdt-fff-db031eee-7f71-48bd-b361-3456f19efa31/)** - Our overflow hotel, the DoubleTree by Hilton, is currently full. Please check back soon for additional rooms.
-* **[Fairfield Inn & Suites](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737732665769&key=GRP&guestreslink2=true&app=resvlink)** - Our second overflow hotel, the Fairfield Inn & Suites, is currently full. Please check back soon for additional rooms.
+* **[Hilton Milwaukee](https://hilton.com/en/book/reservation/rooms/?ctyhocn=MKEMHHF&arrivalDate=2025-02-20&departureDate=2025-02-24&groupCode=95N&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink)**
+* **[DoubleTree by Hilton](https://www.hilton.com/en/attend-my-event/mkeccdt-fff-db031eee-7f71-48bd-b361-3456f19efa31/)**
+* **[Fairfield Inn & Suites](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737732665769&key=GRP&guestreslink2=true&app=resvlink)**
 
 If you have a need for an accessible room, please place your reservation for a standard room. After you have made your reservation, please contact the hotel directly to be moved to an accessible room, contact information is available for each hotel above. If you are having difficulties with this process, please contact us at [info@fursquared.com](mailto:info@fursquared.com).
 
