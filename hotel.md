@@ -58,24 +58,23 @@ We are expanding our space to include a portion of the Baird Center, a exhibitio
   </div>
 <hr>
 
-<!-- Currently outdated. Uncomment when new map is created.
-# Venue Map
+# Hotel Map
 
 <div align="center">
-  <img alt="A map of the venue. Please ask a staff member any questions."  src="{{ 'assets/img/maps/map_venue.png' | relative_url }}" />
+  <img alt="A map of the venue. Please ask a staff member any questions."  src="{{ 'assets/img/2025/hotels.jpg' | relative_url }}" />
 
-  <h4><a href="/assets/img/maps/vertical_con_map.png" target="_new">Click here for a mobile-friendly vertical version of the map.</a></h4>
+  <h4><a href="/assets/img/2025/hotels.jpg" target="_new">Click here for a mobile-friendly vertical version of the map.</a></h4>
 </div>
-
--->
 
 # Room Block Information and Reservations
 
-Our hotels have rooms specifically reserved for FurSquared 2025 attendees. This is called a "room block", and can only be accessed through a special link.
+Our hotels have rooms specifically reserved for FurSquared 2025 attendees. This is called a "room block", and can only be accessed through special links.
 
-<h3>Room block status: <span style="color: #00FCFF">NO ROOMS AVAILABLE, STAY TUNED!</span></h3>
+Here are the hotels that have room blocks. Click the links to check for available rooms and to make a reservation:
 
-Our room blocks at the Hilton Milwaukee and DoubleTree by Hilton are currently full. We are working to secure additional rooms and will update this page when more rooms are available. Please check back soon!
+* **[Hilton Milwaukee](https://hilton.com/en/book/reservation/rooms/?ctyhocn=MKEMHHF&arrivalDate=2025-02-20&departureDate=2025-02-24&groupCode=95N&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink)** - Our main hotel, the Hilton Milwaukee, is currently full. Please check back soon for additional rooms.
+* **[DoubleTree by Hilton](https://www.hilton.com/en/attend-my-event/mkeccdt-fff-db031eee-7f71-48bd-b361-3456f19efa31/)** - Our overflow hotel, the DoubleTree by Hilton, is currently full. Please check back soon for additional rooms.
+* **[Fairfield Inn & Suites](https://www.marriott.com/event-reservations/reservation-link.mi?id=1737732665769&key=GRP&guestreslink2=true&app=resvlink)** - Our second overflow hotel, the Fairfield Inn & Suites, is currently full. Please check back soon for additional rooms.
 
 If you have a need for an accessible room, please place your reservation for a standard room. After you have made your reservation, please contact the hotel directly to be moved to an accessible room, contact information is available for each hotel above. If you are having difficulties with this process, please contact us at [info@fursquared.com](mailto:info@fursquared.com).
 
@@ -88,12 +87,20 @@ If you have a need for an accessible room, please place your reservation for a s
 <hr>
 
 # Parking
+
+## Hilton Milwaukee
 For the Hilton Milwaukee garage, parking is $12 per Vehicle each day, including in-and-out privileges.
 
 You MUST validate your parking ticket! There are two ways:
 
 1. Take the parking ticket to the hotel front desk, and ask to have it attached to your room reservation. You may have multiple vehicles attached to a single room reservation.
 2. If you are not staying overnight, you can acquire a voucher from Registration at the Baird Center and take that to the hotel front desk, along with your parking ticket.
+
+## Fairfield Inn & Suites Parking
+
+The hotel recommends the 310 W Wisconsin Ave parking garage, which is located across the street from the hotel. [Click here for more information and to reserve](https://en.parkopedia.com/parking/garage/310_w_sp_plus_lot_61947/53203/milwaukee/?arriving=202502042200&leaving=202502050000).
+
+## Other Parking Options
 
 There is a strong chance the Hilton garage will reach capacity, so please also consider other lots available in the area. There are many within a blocks surrounding the hotels and convention center. We recommend checking out [SpotHero](https://spothero.com) and [HONK](https://parking.honkmobile.com/parking) for parking options and booking in advance.
 
@@ -151,7 +158,7 @@ Milwaukee is well-known for its variety of dining options, especially in the are
 
 <hr>
   <div align="center">
-    <h3>DoorDash and other services deliver to our hotels. If you decide to order food, groceries, or other items, note that the delivery services will drop off at the front desk (or concierge at Hilton Milwaukee) and will not come to your room, even if you request room delivery. Please pick up orders promptly from the lobby or make arrangements to meet your driver instead.</h3>
+    <h3>DoorDash and other services deliver to our hotels. If you decide to order food, groceries, or other items, note that the delivery services will drop off at the front desk (or concierge at Hilton Milwaukee) and will not come to your room, even if you request room delivery. This is hotel policy. Please pick up orders promptly from the lobby or make arrangements to meet your driver instead.</h3>
   </div>
 <hr>
 
