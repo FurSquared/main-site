@@ -31,6 +31,9 @@ As we have learned in the past, a new variant of COVID-19 can appear and change 
 
 Any modifications to this policy will be published on this page and announced through our social media channels and website.
 
+### Q: Will there be a fursuit parade?
+The convention will not be hosting a fursuit parade in 2025 through the convention space. Furwaukee (a group of local furries) and our guest of honor (Lilia Roo) will be hosting a furwalk from the Hilton to sights in the area, including the famous Bronze Fonz statue! See our [schedule](/programming) for more information.
+
 ### Q: I have a question not on this page. What can I do?
 
 If you have a question, check out our [contact page](http://www.fursquared.com/contact) for a breakdown of who to contact about what, ask in the [FurSquared Chat](https://t.me/fursquaredchat), or reach out to us on [Twitter / X](https://x.com/fursquared)!

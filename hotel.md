@@ -15,12 +15,30 @@ The Hilton Milwaukee, originally opened in 1928 as the Milwaukee Schroeder Hotel
 509 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
 Phone: (414) 271-7250
 
-# DoubleTree by Hilton Hotel Milwaukee Downtown
+<hr>
+  <h1 style="text-align: center;">Overflow Hotels</h1>
+  <div style="display: flex; justify-content: center; text-align: center; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 20px; min-width: 300px;">
+      <h2>DoubleTree by Hilton Hotel Milwaukee Downtown</h2>
+       <p>The DoubleTree by Hilton Hotel Milwaukee Downtown is serving as an overflow hotel for this year. This is an award-winning hotel offering modern guest rooms, on-site dining and a convenient location adjacent to the Hilton Milwaukee and the Baird Center.</p>
+       <br>
+       <p>
+        611 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
+        Phone: (414) 273-2950
+        </p>
+    </div>
+    <div style="flex: 1; margin-right: 20px; min-width: 300px;">
+      <h2>Fairfield Inn & Suites Milwaukee Downtown</h2>
+       <p>The Fairfield Inn & Suites Milwaukee Downtown is serving as another overflow hotel for this year. This hotel is located steps from the Baird Center and is close to other meeting places, such as 3rd Street Market Hall. The rooms are modern and include an ergonomic workstation.</p>
+       <br>
+       <p>
+        611 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
+        Phone: (414) 273-2950
+        </p>
+    </div>
+  </div>
 
-The DoubleTree by Hilton Hotel Milwaukee Downtown is serving as our overflow hotel for this year. This is an award-winning hotel offering modern guest rooms, on-site dining and a convenient location adjacent to the Hilton Milwaukee and the Baird Center.
-
-611 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
-Phone: (414) 273-2950
+<hr>
 
 # Baird Center
 
