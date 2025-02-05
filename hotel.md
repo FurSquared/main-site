@@ -70,7 +70,7 @@ We are expanding our space to include a portion of the Baird Center, a exhibitio
 
 Our hotels have rooms specifically reserved for FurSquared 2025 attendees. This is called a "room block", and can only be accessed through special links.
 
-Here are the hotels that have room blocks. Click the links to check for available rooms and to make a reservation:
+Here are the hotels that have room blocks. Click the links to check for available rooms and to make a reservation. Note that as the con approaches, rooms may fill up, so one or more hotels may be sold out.
 
 * **[Hilton Milwaukee](https://hilton.com/en/book/reservation/rooms/?ctyhocn=MKEMHHF&arrivalDate=2025-02-20&departureDate=2025-02-24&groupCode=95N&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink)** - Our main hotel, the Hilton Milwaukee, is currently full. Please check back soon for additional rooms.
 * **[DoubleTree by Hilton](https://www.hilton.com/en/attend-my-event/mkeccdt-fff-db031eee-7f71-48bd-b361-3456f19efa31/)** - Our overflow hotel, the DoubleTree by Hilton, is currently full. Please check back soon for additional rooms.
