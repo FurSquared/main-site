@@ -74,8 +74,6 @@ Here are the hotels that have room blocks. Click the links to check for availabl
 
 If you have a need for an accessible room, please place your reservation for a standard room. After you have made your reservation, please contact the hotel directly to be moved to an accessible room, contact information is available for each hotel above. If you are having difficulties with this process, please contact us at [info@fursquared.com](mailto:info@fursquared.com).
 
-<hr>
-
 <div align="center">
   <h3><em>Please be aware of scams. Only reserve rooms from trusted sites and only room with people you know and trust. If an offer sounds too good to be true, it likely is!</em></h3>
 </div>
@@ -99,6 +97,8 @@ The hotel recommends the 310 W Wisconsin Ave parking garage, which is located ac
 ## Other Parking Options
 
 There is a strong chance the Hilton garage will reach capacity, so please also consider other lots available in the area. There are many within a blocks surrounding the hotels and convention center. We recommend checking out [SpotHero](https://spothero.com) and [HONK](https://parking.honkmobile.com/parking) for parking options and booking in advance.
+
+<hr>
 
 # Getting to FurSquared
 
