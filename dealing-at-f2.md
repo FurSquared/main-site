@@ -23,7 +23,7 @@ Please note that once the Dealers Den is closed for the evening, nobody will be 
 
 Both the Dealer's Den and the Night Market will be located in convention center room 202. Dealer's Den will take up spaces A, B, & C; Night Market will take up spaces D & E.
 
-Individual vendor spaces in both the Dealers Den and the Night Market are six feet by six feet; this includes one table with dimensions of 96" by 30" and a space of 3.5 feet behind it. Two chairs and a basic tablecloth will be provided per table.
+Individual vendor spaces in both the Dealers Den and the Night Market are 8 feet by 6 feet; this includes one table with dimensions of 96" by 30" and a space of 3.5 feet behind it. Two chairs and a basic tablecloth will be provided per table.
 
 **Table Costs**
 ---------------
