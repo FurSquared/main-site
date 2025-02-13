@@ -35,7 +35,7 @@ navbar-links:
     - Con Map: "con-map"
   Information:
     - About: "about"
-    - Conbook: "coming-soon"
+    - Conbook: "https://static.fursquared.com/uploads/cm8g4EppY4Vv.pdf"
     - Guests of Honor: 'goh'
     - Hotel: "hotel"
     - Code of Conduct: "code-of-conduct"
