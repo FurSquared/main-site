@@ -17,7 +17,7 @@ Use the link below to access the site!
 
 # Location
 
-The Dealers Den is located on the 2nd floor of the convention center in room S202ABC and the Night Market is also on the 2nd floor of the convention center in room S202DE
+The Dealers Den is located on the 2nd floor of the convention center in room S202AD and the Night Market is also on the 2nd floor of the convention center in room S202E
 
 There is a skybridge from the Hilton to the convention center located on the 4th floor right across from the escalators.
 
