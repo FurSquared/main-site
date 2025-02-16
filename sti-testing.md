@@ -9,11 +9,9 @@ Vivent Health will be on site providing free, confidential rapid HIV/Syphilis sc
 ## Hours
 
 ### Friday
-10 AM - 8 PM<br/>
-11 PM - 2 AM
+4 PM - 11 PM
 
 ### Saturday
-9 AM - 9 PM<br/>
-11 PM - 2 AM
+3 PM - 10 PM
 
 Giveaways, information and free condoms & other safer sex materials will also be available at our table. Our Prevention team is here to help you with any questions you may have!
