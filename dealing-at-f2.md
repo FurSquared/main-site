@@ -38,7 +38,7 @@ Note that there are no daily pricing options this year; all listed prices are fo
 **Dealers Den Setup & Teardown**
 --------------------------------
 
-The Dealers Den will be open for vendors only on Thursday afternoon from 6 PM until 11 PM, and early Friday morning at 8 AM before it opens to regular attendees at 10 AM. If you have already picked up your badge, carts and the hotel’s service elevator are available upon request.
+The Dealers Den will be open for vendors only on Thursday afternoon from 8 PM until 11 PM, and early Friday morning at 8 AM before it opens to regular attendees at 10 AM. If you have already picked up your badge, carts and the hotel’s service elevator are available upon request.
 
 Teardown and loadout will be on Sunday after the Dealers Den closes at 4 PM. Note that you will need to sign out with a member of staff before leaving to verify that your table and area is clear and that no trash is left behind.
 
