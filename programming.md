@@ -46,7 +46,7 @@ subtitle: Submit or Attend a Panel at FurSquared!
         Opening Ceremonies: Friday @ 11 am<br>
         Haunted Masquerade: Friday @ 7 pm<br>
         Super Sponsor Dinner: Saturday @ 5 pm<br>
-        Closing Ceremonies: Saturday @ 6 pm
+        Closing Ceremonies: Sunday @ 6 pm
       </th>
     </tr>
   </thead>
