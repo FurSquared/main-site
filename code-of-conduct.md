@@ -2,7 +2,7 @@
 layout: page
 full-width: true
 title: Code of Conduct
-subtitle: Welcome back to our historic venue! Keep Reading for Information on our hotels, the Baird Center, parking, travel, and dining!
+subtitle: How To Get Along With Us!
 ---
 
 ## General Rule
