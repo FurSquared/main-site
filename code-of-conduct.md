@@ -2,118 +2,125 @@
 layout: page
 full-width: true
 title: Code of Conduct
-subtitle: How to Get Along With Us
+subtitle: Welcome back to our historic venue! Keep Reading for Information on our hotels, the Baird Center, parking, travel, and dining!
 ---
 
-## **Code of Conduct**
+## General Rule
 
 The following general rule supersedes all others listed below and may be invoked at any time:
 
-**Any action or behavior that causes significant interference with convention operations, excessive discomfort to other attendees, or adversely affects FurSquared's relationship with its guests, its venues or the public is strictly forbidden and may result in permanent suspension of attendance.**
+**Any action or behavior that disrupts convention operations, causes discomfort to others, or harms FurSquared’s relationship with its guests, venues, or the public is strictly prohibited. Such actions may result in removal from the event, permanent suspension, and/or legal action.**
 
-### **Introduction:**
+### FurSquared’s Purpose
 
-The primary purpose of FurSquared is for our attendees to have fun. To ensure that the greatest number of people achieve this objective, we have established certain rules of conduct. FurSquared welcomes all parties with an interest in anthropomorphic animals; however, the convention's management reserves the right to deny or revoke the attendance of any individual at any time for any reason.
+The primary purpose of FurSquared is to raise funds for animals through our charity, [HAWS](<https://hawspets.org/>)! We reach this purpose through this Code of Conduct that all attendees, volunteers, and staff abide by. FurSquared welcomes all parties with an interest in anthropomorphic animals. In order to achieve this welcoming environment, FurSquared Leadership reserves the right to deny or revoke the attendance of any individual at any time for any reason defined in this Code of Conduct.
 
-The parent company, Two Ferrets, also reserves the right to amend these rules at any time without prior or posted notice and reserves the sole right of interpretation. In any dispute, the general rule above will apply. If you have any questions, please contact the convention operations staff for assistance.
+## Code of Conduct Overview
 
-As a condition of attending, viewing, or hosting events, all FurSquared attendees/artists/vendors are required to abide by this Code of Conduct for the entire duration of their participation in any event space, including the Discord and Telegram chats, even prior to Opening or after Closing Ceremonies.
+The organization that owns the FurSquared Convention is Two Ferrets Co. The Board of Two Ferrets Co reserves the right to amend this Code of Conduct at any time without prior or posted notice and reserves the sole right of interpretation. The Board has final say in all disputes. If you have any questions or concerns, please contact Convention Operations staff for assistance during the Convention, or email <info@fursquared.com> with your inquiry.
 
-### **General Rating of the Convention:**
+As a condition of being present at and around Convention spaces, everyone must abide by this Code of Conduct for the entire duration of their participation in any and all event space, including the Official Telegram chats. This is not limited to Convention event dates and includes before Opening Ceremonies and after Closing Ceremonies.
 
-All convention areas are considered to be "PG" at all times, with the exception of events or exhibits that are specifically noted to be inappropriate for minors. Any interactions in public and official FurSquared digital spaces, including the Discord and Telegram chats, must abide by this PG rating. Any shared media, real or illustrated, that is not deemed to be PG in nature by chat moderators may be subject to removal and the poster may be removed from the chat.
+## General Rating of the Convention
 
-### **Discord and Telegram Chat Decorum:**
+All Convention spaces are considered to be rated PG at all times, with the exception of events or exhibits that are specifically noted to be inappropriate for minors / rated 18+. Any interactions in public spaces as well as official FurSquared digital spaces must abide by this PG rating.
 
-* Please be polite and respectful.
-* No vulgar or abusive language, including when it is masked with symbols, characters or otherwise, will be tolerated. This also includes usernames or Discord handles.
-* No harassment (see [Harassment section below](#harassment)).
+## Hotel and Convention Center Conduct
+
+The individual Rules and regulations of the associated hotels and Baird Convention Center are to be followed. This includes but is not limited to:
+
+1. Our main hotel, The Hilton Milwaukee, is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted.
+2. Place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval.
+3. Wear appropriate footwear in the hotel, convention center, and places where food is being served such as the Super Sponsor Dinner and Sponsor’s Lounge. Fursuit paws are considered allowed footwear.
+4. Clothing must adequately conceal all genitalia.
+
+## Digital Spaces and Telegram Chat Decorum
+
+* Be considerate, polite, and respectful.
+* No vulgar or abusive language, including when it is masked with symbols, characters or otherwise, will be tolerated. This also includes usernames.
+* No harassment (see Harassment section below).
 * No illegal content (links, images, etc.).
 * No harmful links (links to malicious websites, viruses, etc.).
 * Do not spam.
+* Do not Self-Promote without permission. (Contact a moderator for permission.)
 * Do not impersonate members of the staff/moderation team.
 * Do not encourage others to break the rules.
-* Do not perform actions actions that seem specifically designed to test the limits of what is not offensive and to serve no other purpose.
+* Do not perform actions that are specifically designed to test the limits of what is or is not offensive and serves no other purpose.
 * We do NOT tolerate racism or discrimination on the basis of (but not limited to) sex, gender, sexual orientation, race, religious or spiritual belief, national origin, ethnicity, disability, or age.
-* Keep all political talk to a minimum/sophisticated non-aggressive level.
+* Keep all political talk to a minimal, sophisticated, non-confrontational level.
 * No posting of anything NSFW.
 
-Breaking the rules may result in a warning, mute, and/or removal from our Discord and/or Telegram chats.
+Breaking any of these rules will result in a warning, followed by being muted. Any further action that shall be deemed offensive will not be tolerated and may result in removal and/or ban from our Telegram chats.
 
-Any other action that shall, at the sole discretion of FurSquared staff, be deemed offensive will not be tolerated and may result in removal from our Discord and/or Telegram chats.
+## Harassment
 
-### **Harassment:**
+Harassment of any kind as defined below will not be tolerated. FurSquared is not responsible for any interpersonal issues that may arise between individuals. Any person making continuous attempts to initiate contact with someone who has expressed disinterest, may be removed and/or banned from the Convention.
 
-Harassment of any kind, including deliberate intimidation, stalking, or unwanted attention, will not be tolerated. If people tell you "no" or to leave them alone, your business with them is done. If you continue to attempt to have contact with those people, you may be removed from event spaces. FurSquared is not responsible for solving any interpersonal problems that may arise between individual attendees and will use its sole discretion in determining appropriate interventionary measures.
+### Behavioral Guidelines
 
-Harassment includes (but is not limited to):
+* Respect others.
+* No means No.
+* Fursuit is not consent.
+* Ask before initiating any contact.
 
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
-* Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
-* Deliberate misgendering or use of "dead" or rejected names
-* Gratuitous or off-topic sexual images or behavior in spaces where they’re not appropriate
-* Simulated physical contact (e.g. textual descriptions like "*hug*" or "*backrub*") without consent or after a request to stop
-* Threats of violence
-* Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
-* Deliberate intimidation
-* Sustained disruption of discussion
-* Unwelcome sexual attention
-* Continued one-on-one communication after requests to cease
-* Publication of non-harassing private communication
+### Harassment includes (but is not limited to)
 
-### **Sales of Merchandise:**
+* Offensive comments related to gender, gender identity and gender expression, sexual orientation, disability, mental health condition, neuro(a)typicality, physical attributes, ethnicity, race, religion, or political affiliations.
+* Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
+* Deliberate misgendering or use of “dead” or rejected names.
+* Gratuitous or off-topic sexual images or behavior in spaces where they’re not appropriate.
+* Simulated physical contact (e.g. textual descriptions like “hug” or “backrub”) without consent or after a request to stop.
+* Threats of violence.
+* Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
+* Stalking.
+* Intimidation.
+* Continuous disruption of discussion.
+* Unwelcome sexual attention.
+* Continued direct communication after requests to cease.
+* Publication of private communication.
 
-Sales of merchandise by approved FurSquared dealers and artists will be handled by the individual vendor. FurSquared takes no responsibility for these transactions. Sales of merchandise not by an approved FurSquared dealer or artist are prohibited.
+## Sales of Merchandise
 
-Transactions should take place through private communication in the method of the dealer's choice. In the interest of maintaining the security of sensitive financial information, no divulging of personal financial information or sale should take place in a public area. Conversations about potential sales should be limited to the Dealer’s Den or Artist’s Alley channels in the FurSquared Discord, and no solicitation for sales should take place in any other chat area.
+Sales of merchandise by approved FurSquared dealers and artists will be handled by the individual vendor. FurSquared takes no responsibility for these transactions. The sale of merchandise of any kind by a non-approved FurSquared dealer or artist is prohibited.
 
-The Night Market is an 18+ space and ID’s are already checked at the entrance, so vendors in the Night Market are not required to check ID’s.
+Transactions should take place through direct in-person communication. In the interest of maintaining the security of sensitive financial information, no divulging of personal financial information or sale of merchandise should take place outside the Dealer’s Den, Night Market, and Artist Alley. Solicitation for any sales outside of aforementioned sanctioned areas are not permitted except in the F2 Convention Chat on Telegram if approved by a moderator of that official chat.
 
-### **NFT’s & AI Art**
+The Night Market is restricted to persons of the ages 18 and above. Attendees must present a form of legal identification proving age of 18 prior to being allowed admittance to The Night Market. No attendee under the age of 18 shall be admitted to The Night Market, accompanied by an adult or otherwise. With this procedure, individual Night Market vendors are not required to check identification prior to completing sales.
 
-FurSquared prohibits any sale and/or promotion of anything related to NFTs (Non Fungible Tokens) at your dealer table. We also do not allow the sale and/or promotion of “AI art”. If we
-learn that this is happening, your dealer status will immediately be revoked and you will be required to remove your items from the Dealer's Den, with the possibility of not being allowed back in future events.
+## NFT’s & AI Images
 
-Note: Having participated in the past will not have an impact on you.
+FurSquared prohibits the sale and/or promotion of anything related to NFTs (Non Fungible Tokens). FurSquared prohibits the sale and/or promotion of “AI images”. AI Images are defined as any media created entirely by, assisted by, or edited by means of AI. This includes heavily edited media that originated from AI output. If a report of any of these occurring is received, the perpetrating vendor(s)’ will be investigated. If the report and investigation conclude the violation of this policy, the vendor(s)’ status will immediately be revoked and they will be required to remove their items from the convention space, with the possibility of not being allowed to vend at future FurSquared events.
 
-### **Use of FurSquared Images or Footage:**
+## Use of FurSquared Media
 
-FurSquared attendees should be aware that audio and/or video recordings are frequently made in convention areas and that their likenesses may appear in those recordings. Individual attendees agree to assign without compensation the use of their likeness(es) at FurSquared for the use of promotional material such as the highlights videos.
+FurSquared attendees should be aware that audio and/or video recordings are frequently made in convention areas and that their likenesses may appear in those recordings. Individual attendees agree to assign without compensation the use of their likeness(es) at FurSquared for the use of promotional material.
 
-The name "FurSquared" and the FurSquared logo are registered service marks of Two Ferrets, and must not be used in any fashion that disparages or dilutes that mark. Attendees agree to remove from circulation or publication any image or recording that in the sole opinion of Two Ferrets misrepresents or defames its service mark.
+The name “FurSquared” and FurSquared logo(s) are service marks of Two Ferrets Co and may not be used in any fashion that disparages or dilutes that mark. Any and all attendees of FurSquared agree to remove from circulation or publication any media that in the sole opinion of Two Ferrets Co misrepresents or defames its service mark.
 
-### **Payments to FurSquared and other money matters:**
+## Payments to FurSquared and Other Money Matters
 
-Donations to FurSquared unfortunately are not deductible from individual U.S. Federal income taxes.
+Two Ferrets Co is a registered 501(c)(3). Donations to FurSquared can be tax deductible. Please seek legal and financial advice from licensed professionals if you have a question on your taxes.
 
-Checks that are presented against insufficient funds will be charged a fee of $30 per check.
+For the Charity Auction, payments made for items made can receive a receipt for the transaction. If a receipt is needed, the purchaser must ask for proof of purchase at the auction upon receiving the item.
 
-FurSquared also accepts Visa, Mastercard, American Express, JCB, Discover, and Diners Club cards. Chargebacks (denying a charge) that are made for the sole purpose of avoiding payment, that are made without sufficient cause, or that are made without first attempting to resolve the dispute with FurSquared may result in permanent revocation of attendance privileges and possible legal action.
+FurSquared accepts Visa, MasterCard, American Express, Discover, JCB. FurSquared also supports payments through Apple Pay, Google Pay, Samsung Pay, Afterpay, and Klarna.
 
-FurSquared cannot involve itself in financial disputes between individual attendees, and cannot divulge information about an individual attendee to any party other than to banking officials or legal authorities.
+FurSquared will not accept Checks as payment. Chargebacks (denying a charge) that are made for the sole purpose of avoiding payment, made without sufficient cause, and/or made without first attempting to resolve the dispute with FurSquared may result in permanent revocation of attendance privileges and possible legal action. FurSquared will investigate all chargebacks.
 
-### **Hotel and Convention Center Conduct:**
+FurSquared will not involve itself in financial disputes between individual attendees, and will not divulge information about an individual attendee to any party unless provided with written requirement from an applicable local, state, or federal law.
 
-Rules and regulations of the hotels and convention center are to be followed. This includes but is not limited to:
+### Miscellaneous Notes
 
-1. Wear appropriate footwear in the hotel lobby, convention center, and places where food is being served such as the Super Sponsor Dinner and Sponsor's Lounge. Fursuit paws are considered allowed footwear.
+The standards of conduct for FurSquared will be strictly enforced by FurSquared staff, who will be clearly identified as such. If you have an issue with any action taken by a Staff member or volunteer, please note at least the badge name, and number if possible. You then may go to our Security team (Dorsai, 4th floor of the Hilton) to submit your report. You may also request a Board Member to be present to hear your report so an appropriate decision and action can be taken based on severity, and proof.
 
-2. This is still mostly a public space, so clothing must cover your bits.
+This Code of Conduct is only enforceable to the extent that FurSquared staff is aware of and can follow up on any violations that arise. If you notice someone behaving destructively, negatively, or negligent, notify an identified staff member. A designated member of leadership will then move forward with agreed upon procedures to resolve the situation.
 
-3. Our main hotel, The Hilton Milwaukee, is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted.
+The Board may, upon receipt of information, ban or bar someone from FurSquared event spaces or FurSquared events based on a ban, bar, or notice from other legal entities (venues, organizations, conventions, online platforms, law enforcement, etc), given the following: the Board has gone to every effort to ensure those bans are reputable, and not rooted in interpersonal issues, bias, or malice; the ban or bar was enacted due to harassment, violence, or physical, sexual, emotional abuse, or incitement of any of the above.
 
-4. Place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval. 
+Please be reminded that these rules may involve “worst-case” scenarios and are put into place to ensure the safety and comfort of attendees of the convention. These rules are also not all-inclusive. As stated at the beginning of this Code of Conduct, the main rule is as follows:
 
-### **Miscellaneous notes:**
+Any action or behavior that disrupts convention operations, causes discomfort to others, or harms FurSquared’s relationship with its guests, venues, or the public is strictly prohibited. Such actions may result in removal from the event, permanent suspension, and/or legal action.
 
-The standards of conduct for FurSquared will be strictly enforced by FurSquared staff and volunteers, who will be clearly identified as such. If you have any problem with any action taken by a Staff member you may take the matter up with the Chief of Security or to FurSquared's Chairman.
+FurSquared is prepared to deal with the above scenarios and more in as rapid and efficient a manner as possible. We thank our attendees for their past cooperation and for their continued assistance in making this a safe and enjoyable experience for everyone. Have fun - just please remember to be courteous and considerate of those around you while doing so!
 
-This Code of Conduct is only enforceable to the extent that FurSquared leadership is aware of and can follow up on any violations that arise. If you notice someone behaving destructively or negatively, notify an identified staff member or volunteer moderator. That person will then move forward with enforcement procedures and will inform you if there is anything else that you need to do to help resolve the situation.
-
-The Board may, upon receipt of information, ban or bar someone from event spaces or events based on a ban, bar, or notice from other legal entities (venues, organizations, conventions, online platforms, law enforcement, etc), given the following: the Board has gone to every effort to ensure those bans are reputable, and not rooted in interpersonal issues, bias, or malice; the ban or bar was enacted due to harassment, violence, or physical, sexual, emotional abuse, or incitement of any of the above.
-
-Please be reminded that these rules involve, of course, "worst-case" scenarios and are put into place to ensure the safety and comfort of our attendees. They are also not all-inclusive: **in all cases, the singular rule that supersedes all others is, "any action or behavior that causes significant interference with convention operations, excessive discomfort to other attendees, or adversely affects FurSquared's relationship with its guests, its venue or the public is strictly forbidden and may result in removal."**
-
-FurSquared is prepared to deal with any or all of the above scenarios in as rapid and efficient a manner as possible should they occur. We thank our attendees for their past cooperation and for their continued assistance in making this a safe and enjoyable experience for everyone. Have fun - just please remember to be courteous of those around you while doing so\!
-
-~The Board & Staff of FurSquared & Two Ferrets
+~The Board & Staff of Two Ferrets Co & FurSquared
