@@ -66,8 +66,9 @@ subtitle: Submit or Attend a Panel at FurSquared!
     <tr>
       <td style="text-align: center">
         <p><b>Artist Alley</b></p>
-        Friday: 1 pm - 5 pm<br/>
-        Saturday/Sunday: 11 am - 5 pm
+        Friday: 12 pm - 5 pm<br/>
+        Saturday: 11am - 5 pm<br/>
+        Sunday: 11 am - 4pm
       </td>
       <td style="text-align: center">
         <p><b>Photoshoot</b></p>
