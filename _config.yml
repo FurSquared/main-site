@@ -26,7 +26,7 @@ url: "https://fursquared.com"
 
 navbar-links:
   Activities:
-    - Schedule: 'programming'
+    # - Schedule: 'programming'
     - Artist Alley: "artist-alley"
     - Dance Events: "dance-events"
     - Dealer's Den: "https://vendors.fursquared.com/public"
@@ -44,15 +44,14 @@ navbar-links:
     - Volunteer: "volunteer"
     - Programming: 'programming'
     - Minors Policy: "minors-policy"
-    
   Dealers and Artists:
     - Artist Alley: "artist-alley"
     - Dealer's Den: "dealers"
-    - Dealing At F2: "dealing-at-f2"
-    - Dealer Vendor Policy: "dealers-vend-policy"
-    - DJ Applications: "dj-apps"
+    # - Dealing At F2: "dealing-at-f2"
+    # - Dealer Vendor Policy: "dealers-vend-policy"
+    # - DJ Applications: "dj-apps"
   Contact Us: "contact"
-  Register: "registration"
+  # Register: "registration"
 
 
 ################
