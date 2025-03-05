@@ -4,7 +4,7 @@ full-width: true
 title: Volunteer
 subtitle: Looking to help out FurSquared?
 ---
-Are you Interested in making a difference with our growing convention? FurSquared is staffed entirely by volunteers. Won't you help us out by volunteering? It's easy, fun and there are some great benefits to pitching in. There are plenty of opportunities available for all of our attendees.
+Our Staff Application Form is currently being reworked. Check back later for the new link if you are interested in applying!
 
 ## Crowd Control
 
