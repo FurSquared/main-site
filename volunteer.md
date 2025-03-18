@@ -68,6 +68,6 @@ In exchange for your hard work, you will receive the following:
 * Special staff gifts unique to that year (can be lanyards, shirts, or other goodies!)
 * Other staff related activities/hangouts throughout the year
 
-If you're interested in joining our staff, please fill out our [Staff Application Form](https://forms.gle/DBpUAyNNj6r577sA9) and we will be in touch with you. If you're looking to volunteer at the convention, please read the above section for instructions on applying through our registration system.
+Our Staff Application Form is currently being reworked. Check back later for the new link if you are interested in applying!
 
 Thanks so much for offering to go above and beyond for FurSquared!
