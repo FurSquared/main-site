@@ -7,7 +7,7 @@ subtitle: FurSquared is a furry convention held in Southeastern Wisconsin. Read
 ---
 ### Q: What is a furry convention?
 
-Also known as a furry con or fur con, a furry convention is a large gathering of those in the [furry fandom](https://whatarefurries.com/). At these multi-day events, those in the fandom meet up, patronize vendors, and attend smaller events called "panels".
+A fun place! Also known as a furry con or fur con, a furry convention is a large gathering of those in the [furry fandom](https://whatarefurries.com/). At these multi-day events, those in the fandom meet up, patronize vendors, and attend smaller events called "panels".
 
 These conventions are held in hotels or convention centers. Furry conventions usually raise money for charity (including FurSquared).
 
